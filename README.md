@@ -1,6 +1,6 @@
 # Guia de Boas Práticas - InovaWeb
 
-**Autor(a):** [Coloque seu nome completo aqui]  
+**Autor(a):** Josué Bispo Silva 
 **Cargo:** Consultor(a) de Tecnologia Júnior
 
 ## Sobre o Projeto
